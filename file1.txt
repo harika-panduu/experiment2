@@ -4,3 +4,6 @@ gundu
 hundu
 kandu
 dhindu
+hi
+hello
+hlww
